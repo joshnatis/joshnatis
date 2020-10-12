@@ -1,7 +1,7 @@
 {
-  "name": "test.md",
+  "name": "joshnatis",
   "version": "1.0.0",
-  "description": "<!-- umm hi",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joshnatis/test.md/issues"
+    "url": "https://github.com/joshnatis/joshnatis/issues"
   },
-  "homepage": "https://github.com/joshnatis/test.md#readme",
+  "homepage": "https://github.com/joshnatis/joshnatis#readme",
   "dependencies": {
     "dotenv": "^8.1.0",
     "eastasianwidth": "^0.2.0",
