@@ -1,0 +1,25 @@
+{
+  "name": "test.md",
+  "version": "1.0.0",
+  "description": "<!-- umm hi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshnatis/test.md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshnatis/test.md/issues"
+  },
+  "homepage": "https://github.com/joshnatis/test.md#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "eastasianwidth": "^0.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
