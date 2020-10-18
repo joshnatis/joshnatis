@@ -1,7 +1,7 @@
-<h3>scrobbles this week ❄</h3><pre>Lil Ugly Mane                   ████░░░░░░░░░░░░░     4 plays
-capoxxo                         ███░░░░░░░░░░░░░░     3 plays
-Black Moth Super Rainbow        ██░░░░░░░░░░░░░░░     2 plays
-meat computer                   ██░░░░░░░░░░░░░░░     2 plays
+<h3>scrobbles this week ❄</h3><pre>capoxxo                         ███▏░░░░░░░░░░░░░     3 plays
+Lil Ugly Mane                   ███▏░░░░░░░░░░░░░     3 plays
+Black Moth Super Rainbow        ██▏░░░░░░░░░░░░░░     2 plays
+meat computer                   ██▏░░░░░░░░░░░░░░     2 plays
 Chameleon                       █░░░░░░░░░░░░░░░░     1 plays
 Dania Shapes                    █░░░░░░░░░░░░░░░░     1 plays
 Gavriel                         █░░░░░░░░░░░░░░░░     1 plays
