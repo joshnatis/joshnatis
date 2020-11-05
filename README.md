@@ -1,1 +1,1 @@
-<h3>scrobbles this week ❄</h3><pre></pre>
+<h3>scrobbles this week ❄</h3><pre>Boards of Canada                █████████████████     2 plays</pre>
