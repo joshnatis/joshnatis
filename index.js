@@ -47,6 +47,7 @@ const LASTFM_USRN = process.env.LFMUSERNAME;
 	}
 
 	text = lines.join("\n");
+	if(text.length == 0) text = "♥ Looks like I haven't listened to anything recently :P";
 	const result = "<h3>scrobbles this week ❄</h3><pre>" + text + "</pre>";
 
 	fs.writeFile("README.md", result, function (err) {
