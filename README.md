@@ -1,4 +1,5 @@
-<h3>scrobbles this week ❄</h3><pre>♥ Looks like I haven't listened to anything recently :P</pre><hr>
+<h3>scrobbles this week ❄</h3><pre>meat computer                   ███████████▎░░░░░     2 plays
+Aphex Twin                      █████▋░░░░░░░░░░░     1 plays</pre><hr>
 
 ![reef](pix/reef.gif)
 
