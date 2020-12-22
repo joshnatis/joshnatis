@@ -12,9 +12,6 @@ Aphex Twin                      █████▋░░░░░░░░░░
 ![love](pix/love.gif)
 ![fravia](pix/fravia.gif)
 
-![butterfly](pix/butterfly.gif)
-
-<!---
 ```
 ####_____ ____  _____________       _____    ____  ______
 ###/ ___// __ \/ ____/_  __/ |     / /   |  / __ \/ ____/
@@ -36,4 +33,3 @@ Aphex Twin                      █████▋░░░░░░░░░░
 ![protec](pix/protec.gif)
 
 See more on my [software](https://josh8.com/software) page, or below :)
--->
