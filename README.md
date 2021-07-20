@@ -19,12 +19,12 @@
 
 | ware          | desc           
 | ------------- | -------------|
-| ![heart](pix/heart.gif) [synth8](https://github.com/joshnatis/synth8) | An Arduino-based synthesizer |
-| ![heart](pix/heart.gif) [phd](https://github.com/joshnatis/phd)      | A Markdown to HTML parser|
-| ![heart](pix/heart.gif) [winona](https://github.com/joshnatis/winona) | An ncurses-based command-line music player |
-| ![heart](pix/heart.gif) [acidtab](https://github.com/joshnatis/acidtab) |A tab archiver and manager |
-| ![heart](pix/heart.gif) [Food Management System](https://github.com/joshnatis/fms) |A food management system with a cool CLI |
-| ![heart](pix/heart.gif) [teapot](https://github.com/joshnatis/teapot) | A command-line music player|
+| ![heart](pix/heart.gif) [synth8](https://github.com/joshnatis/synth8) | A polyphonic hardware synthesizer |
+| ![heart](pix/heart.gif) [phd](https://github.com/joshnatis/phd)      | A Markdown to HTML compiler|
+| ![heart](pix/heart.gif) [winona](https://github.com/joshnatis/winona) | A command-line music player |
+| ![heart](pix/heart.gif) [acidtab](https://github.com/joshnatis/acidtab) | A tab archiver and manager |
+| ![heart](pix/heart.gif) [Food Management System](https://github.com/joshnatis/fms) | A food management system with a cool CLI |
+| ![heart](pix/heart.gif) [teapot](https://github.com/joshnatis/teapot) | A command-line music player shell script|
 | ![heart](pix/heart.gif) [BigMemeEditor32](https://josh8.com/meme) | A meme editor and deep-fryer  |
 
 ![protec](pix/protec.gif)
