@@ -9,24 +9,44 @@
 ![love](pix/love.gif)
 ![fravia](pix/fravia.gif)
 
-```
-####_____ ____  _____________       _____    ____  ______
-###/ ___// __ \/ ____/_  __/ |     / /   |  / __ \/ ____/
-###\__ \/ / / / /_    / /  | | /| / / /| | / /_/ / __/   
-##___/ / /_/ / __/   / /   | |/ |/ / ___ |/ _, _/ /___   
-#/____/\____/_/     /_/    |__/|__/_/  |_/_/ |_/_____/
-```
+Escaping from the [myth of determinism](https://www.youtube.com/watch?v=KdnGPQaICjk) in technology.
 
-| ware          | desc           
-| ------------- | -------------|
-| ![heart](pix/heart.gif) [synth8](https://github.com/joshnatis/synth8) | A polyphonic hardware synthesizer |
-| ![heart](pix/heart.gif) [phd](https://github.com/joshnatis/phd)      | A Markdown to HTML compiler|
-| ![heart](pix/heart.gif) [winona](https://github.com/joshnatis/winona) | A command-line music player |
-| ![heart](pix/heart.gif) [acidtab](https://github.com/joshnatis/acidtab) | A tab archiver and manager |
-| ![heart](pix/heart.gif) [Food Management System](https://github.com/joshnatis/fms) | A food management system with a cool CLI |
-| ![heart](pix/heart.gif) [teapot](https://github.com/joshnatis/teapot) | A command-line music player shell script|
-| ![heart](pix/heart.gif) [BigMemeEditor32](https://josh8.com/meme) | A meme editor and deep-fryer  |
+Interests and questions:
+```
+* Fundamentally new ideas about computing
+  (hint: not hyper-optimizing Linux on the x86 architecture)
+* Are computers and nature adversaries? Do they have to be?
+  How can we create a symbiotic relationship between them?
+* Trying to reconcile being a Luddite with being a computer scientist
+* 1960s counterculture movements and ideals
+* Conciousness and intelligence (human and otherwise)
+* Alternative social and economic systems
+  (capitalist realism[1], is there no alternative?)
+* Computing History
+* Operating Systems
+* Programming Languages
+* Embedded Systems
+* Computer Music
+* Synthesizers
+* Sound
+* Media (physical and virtual, samizdat)
+* Document markup languages and typesetting systems
+* Transcending simulations and metaphors in computing
+  (the computer can be more than simulated machines, appliances, paper, offices)
+* Human-computer Interaction (à la Ted Nelson and Alan Kay)
+* Making computing interdisciplinary
+* Learning
+* Teaching
+* Freedom
+* Simplicity
+* UNIX
+* Plants swaying in the wind, fluid dynamics, flocks of birds
+* Outer space
+* Soviet Union media and cinema
+* Ambient music
 
+[1] https://en.wikipedia.org/wiki/Capitalist_Realism
+```
 ![protec](pix/protec.gif)
 
-See more on my [software](https://josh8.com/software) page, or below :)
+See some video demos of my software [here](https://josh8.com/software).
