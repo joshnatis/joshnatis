@@ -21,7 +21,7 @@ Interests and questions:
 * 1960s counterculture movements and ideals
 * Conciousness and intelligence (human and otherwise)
 * Alternative social and economic systems
-  (capitalist realism[1], is there no alternative?)
+  (capitalist realism[1]: is there no alternative?)
 * Computing History
 * Operating Systems
 * Programming Languages
