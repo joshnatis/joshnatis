@@ -50,5 +50,3 @@ Interests and questions:
 ![protec](pix/protec.gif)
 
 See some video demos of my software [here](https://josh8.com/software).
-
-P.S. - I'm looking for work. If you can help, please email me: *josh at josh8 dot com*.
