@@ -14,7 +14,7 @@ Escaping from the [myth of determinism](https://www.youtube.com/watch?v=KdnGPQaI
 Interests and questions:
 ```
 * Fundamentally new ideas about computing
-  (hint: not hyper-optimizing Linux on the x86 architecture)
+  (not hyper-optimizing Linux on the x86 architecture)
 * Are computers and nature adversaries? Do they have to be?
   How can we create a symbiotic relationship between them?
 * Trying to reconcile being a Luddite with being a computer scientist
